@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=like-rounak&show_icons=true&locale=en&layout=compact" alt="like-rounak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=like-rounak&show_icons=true&locale=en" alt="like-rounak" /></p>
+
+[![An image of @likerounak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likerounak)](https://holopin.io/@likerounak)
